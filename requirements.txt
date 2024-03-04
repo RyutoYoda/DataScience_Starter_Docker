@@ -8,13 +8,10 @@ pandas
 numpy
 scipy
 pillow
-
 #EDA
 sweetviz
-
 # 特徴量エンジニアリング
 xfeat
-
 # lightgbmでの予測モデル
 lightgbm
 optuna
@@ -22,17 +19,13 @@ seaborn
 numpy
 scipy
 pillow
-
 #深層系
 tensorflow
 torch
 keras
-
 #時系列分析
 tslearn
-
 #ハイパラ
 scikit-optimize
-
 #AutoML
 pycaret[full] 
