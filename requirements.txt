@@ -16,6 +16,8 @@ xfeat
 # lightgbmでの予測モデル
 lightgbm
 optuna
+catboost
+xgboost
 seaborn
 numpy
 scipy
