@@ -5,6 +5,7 @@ matplotlib
 japanize-matplotlib
 seaborn
 pandas
+polars
 numpy
 scipy
 pillow
